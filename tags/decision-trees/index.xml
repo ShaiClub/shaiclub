@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decision Trees on شاي للذّكاء الاصطناعي</title>
+    <link>https://www.shaiclub.com/tags/decision-trees/</link>
+    <description>Recent content in Decision Trees on شاي للذّكاء الاصطناعي</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
+    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/decision-trees/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decision Trees | شجرة القرار</title>
+      <link>https://www.shaiclub.com/post/articles/decision_trees/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shaiclub.com/post/articles/decision_trees/</guid>
+      <description>Decision Trees أو ما يعرف بأشجار القرار 🔥 هي خوارزمية من أهم الخوارزميات وأشهرها في مجال تعلم الآلة الخاضع للإشراف ( supervised learning) تستخدم رسما شبيها بالشجرة ويكون كل فرع من هذه الشجرة نتيجة لقرار ما , حيث تكون هذه القرارات بناء على المعطيات الموجودة في البيانات 📊
+📌يتم استخدامها لكل من التصنيف والتوقع ( regression and classification )📉
+📌الهدف من هذه الخوارزمية : تستخدم شجرة القرار في تحليل القرارات للمساعدة في تحديد الإستراتيجية التي ستؤدي لتحقيق الهدف عن طريق السمات (Features )</description>
+    </item>
+    
+  </channel>
+</rss>

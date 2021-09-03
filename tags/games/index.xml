@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on شاي للذّكاء الاصطناعي</title>
+    <link>https://www.shaiclub.com/tags/games/</link>
+    <description>Recent content in Games on شاي للذّكاء الاصطناعي</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hide and Seek</title>
+      <link>https://www.shaiclub.com/post/articles/hide-and-seek/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shaiclub.com/post/articles/hide-and-seek/</guid>
+      <description>Hide and seek اول اشي خلونا نحكي شوي عن Reinforcement هو احد خوارزميات الذكاء الاصطناعي التي تتميز عن غيرها من الخوارزميات بعدم حاجتها لوجود بيانات(Data)🗃️ اذ تعمل على جمع البيانات التي تحتاجها بنفسها🤖 وتعتمد بذلك على مبدأ التجربةوالخطأ وتقوم بتقييم كل تجربة بناء على مجموعة من القوانين✔️❌ يلي بحددها المبرمج
+موضوعنا اليوم راح يكون عن احد تطبيقات هاي الخوارزمية وهو لعبة من شركة OpenAI فكرة اللعبة هي نفس لعبة الغميضة اللعبة بتتكون من فريقين ( الاحمر🔴 والازوق🔵)</description>
+    </item>
+    
+  </channel>
+</rss>
