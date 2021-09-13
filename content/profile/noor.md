@@ -8,7 +8,6 @@ name: "\"محمد نور\" أبو خليف "
 image: ../../team/images/noor.png
 position: إداري، ومدرّب، ومطوّر الموقع الإلكتروني
 teams: [
-"فريق الإدارة",
 "فريق التدريب",
 "فريق الموقع الإلكتروني"
 ]
@@ -23,5 +22,6 @@ snapchat: moh.noor94
 stackoverflow: 2847543/mohammad-noor
 email: moh.noor94@gmail.com
 youtube: https://go.noor.guru/youtube
+
 ---
 
