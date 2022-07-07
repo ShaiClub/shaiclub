@@ -1,5 +1,5 @@
 # shAI Club Website
-A repo of [our website](https://www.shaiclub.com/).
+A repo of [the former website of ShaiClub](https://www.shaiclub.com/).
 
 
 ## Quick Run
