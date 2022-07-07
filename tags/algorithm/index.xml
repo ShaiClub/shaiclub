@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithm on شاي للذّكاء الاصطناعي</title>
-    <link>https://shaiclub.github.io/shaiclub/tags/algorithm/</link>
+    <link>https://mohnoor94.github.io/shaiclub/tags/algorithm/</link>
     <description>Recent content in Algorithm on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mohnoor94.github.io/shaiclub/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>تفوق خوارزمية (علي بابا | Alibaba) لأول مرة على الإنسان</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/visual-questions-answering/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/visual-questions-answering/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/visual-questions-answering/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/visual-questions-answering/</guid>
       <description>تفوقت خوارزمية (علي بابا | Alibaba) للذكاء الاصطناعي لأول مرة على الإنسان في الأسئلة المتعلقة بالصور 🏙🏆
 إذ احتلت خوارزمية (علي بابا) للذكاء الاصطناعي المركز الأول في تحدي (VQA - Visual Questions Answering) العالمي لأول مرة.🥇
 تحدي VQA هو تحدي سنوي عبارة عن تنافس بين خوارزميات الذكاء الاصطناعي متل خوارزميات Facebook, Micrososft و Alibaba لتقديم إجابات على صورة وسؤال متعلق بهاي الصورة مثلا كم عدد الأطفال في صورة غرفة فيها عدد من الأشخاص.</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Decision Trees | شجرة القرار</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/decision_trees/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/decision_trees/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/decision_trees/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/decision_trees/</guid>
       <description>Decision Trees أو ما يعرف بأشجار القرار 🔥 هي خوارزمية من أهم الخوارزميات وأشهرها في مجال تعلم الآلة الخاضع للإشراف ( supervised learning) تستخدم رسما شبيها بالشجرة ويكون كل فرع من هذه الشجرة نتيجة لقرار ما , حيث تكون هذه القرارات بناء على المعطيات الموجودة في البيانات 📊
 📌يتم استخدامها لكل من التصنيف والتوقع ( regression and classification )📉
 📌الهدف من هذه الخوارزمية : تستخدم شجرة القرار في تحليل القرارات للمساعدة في تحديد الإستراتيجية التي ستؤدي لتحقيق الهدف عن طريق السمات (Features )</description>
@@ -31,10 +31,10 @@
     
     <item>
       <title>Grid Search  VS  Random Search</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/047_grid_vs_random/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/047_grid_vs_random/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/047_grid_vs_random/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/047_grid_vs_random/</guid>
       <description>خلال عملية بناء نظم للذكاء الاصطناعي نهتم بإيجاد أفضل قيم تعطى لخوارزميات التعلم قبل البدء بالتدريب، بعملية تعرف باسم Hyperparameter Tuning 📝
 وإيجاد القيم المُثلى للHyperparameters يسمح لنا برفع مستوى دقة وأداء الموديل 📈 ، لكن كيف ممكن نختار القيم؟ 🤔 طريقة الاختيار بتنقسم لطريقتين:
 1️⃣ بشكل يدوي عن طريق التجربة والخطأ:
@@ -43,10 +43,10 @@
     
     <item>
       <title>المنطق الضبابي | Fuzzy logic</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/046_fuzzy_logic/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/046_fuzzy_logic/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/046_fuzzy_logic/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/046_fuzzy_logic/</guid>
       <description>المنطق الضبابي (Fuzzy logic) في الذكاء الاصطناعي🌫 في أنظمة الذكاء الاصطناعي (AI)🤖 ، يتم استخدام المنطق الضبابي لتقليد التفكير والإدراك البشري حيث يستخدم في تصميم وتحليل بعض الشبكات العصبية الاصطناعية.
 فبدلاً من حالات الحقيقة الثنائية البحتة true/false يعطي المنطق الضبابي نتائج بين 0 و 1 عندما يتعرض لمسألة لا يستطيع تصنيفها إلى صحيحة✅ ام خاطئة.❌
 نتيجة لذلك ، فإن المنطق الضبابي مناسب تمامًا للهندسة خاصة في التحكم في العمليات🕹 (process control) و التحكم الآلى (automatic control).</description>

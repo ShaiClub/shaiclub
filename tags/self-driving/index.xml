@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self Driving on شاي للذّكاء الاصطناعي</title>
-    <link>https://shaiclub.github.io/shaiclub/tags/self-driving/</link>
+    <link>https://mohnoor94.github.io/shaiclub/tags/self-driving/</link>
     <description>Recent content in Self Driving on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/self-driving/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mohnoor94.github.io/shaiclub/tags/self-driving/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zoox</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/020_zoox/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/020_zoox/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/020_zoox/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/020_zoox/</guid>
       <description>Zoox هي نسخة ذاتية القيادة من سيارات التاكسي (robotaxi) 🚕. السيارة كهربائية بالكامل ببطارية بتدوم 16 ساعة من الاستخدام المتواصل وسرعة قيادة تصل إلى 75 ميل بالساعة.
 السيارة تعتمد اعتماد كبير على الذكاء الاصطناعي وتعلم الآلة في توجيه مسارها وتحديد الخيارات الأنسب لتحركاتها القادمة، فمثلًا تستخدم الcomputer vision لتفهم الأشياء اللي حولها زي الإشارات الضوئية واللوحات الإرشادية⚠️، وبالتأكيد بتعمل على تصنيف الأجسام المتحركة إذا كانت سيارات أو مشاة 🚸 (أو حتى عمّال صيانة الطرق!</description>
     </item>
     
     <item>
       <title>AI in Healthcare</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/ai-in-healthcare/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/ai-in-healthcare/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/ai-in-healthcare/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/ai-in-healthcare/</guid>
       <description>اهم خوارزميات الذكاء الصناعي الجديدة 🤖في المجال الطبي التي احدثت ثورة في المجال 🤩
 ١- الاشعة
 في عام ٢٠١٨ تم تطوير تقنيات ال deep learning على صور اشعة الصدر لعدد كبير من المرضى حتى اصبحت قادرة على التغلب على تشخيص الاطباء للمرض بفارق كبير
@@ -34,10 +34,10 @@
     
     <item>
       <title>Self driving cars السيارات ذاتية القيادة 🧐🚗</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/self-driving-cars/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/self-driving-cars/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/self-driving-cars/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/self-driving-cars/</guid>
       <description>ازداد الحديث عن السيارات ذاتية القيادة في الآونة الأخيرة على الرغم من أن أول سيارة من هذا النوع ظهرت في ثمانينيات القرن الماضي من خلال مختبرات &amp;ldquo;Navlab&amp;rdquo; التابعة لجامعة ميلون(CMU) عام 1984 و ايضا مشروع مرسيدس بنز و جامعة(Bundeswehr) في ألمانيا عام 1987 . ومن ثم بدأت العديد من الشركات الكبرى بتطوير نماذج اولية و توالت التطورات في هذه السيارات بشكل كبير بمشاركة أكثر من 35 شركة سيارات من بينها شركات تسلا و جنرال موتورز و آبل و غوغل و تويوتا و بي ام دبليو و فورد و غيرها الكثير .</description>
     </item>
     

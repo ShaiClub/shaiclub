@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>extraction on شاي للذّكاء الاصطناعي</title>
-    <link>https://shaiclub.github.io/shaiclub/tags/extraction/</link>
+    <link>https://mohnoor94.github.io/shaiclub/tags/extraction/</link>
     <description>Recent content in extraction on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/extraction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mohnoor94.github.io/shaiclub/tags/extraction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feature Extraction</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/feature-extraction/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/feature-extraction/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/feature-extraction/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/feature-extraction/</guid>
       <description>عند تحليل البيانات المعقدة عدد المتغيرات (variables ) التي تتكون منها قاعدة البيانات من اكثر المشاكل التي قد تكون عائق امامك بهذه العملية 🧮
 لان تحليل عدد ضخم من المتغيرات داخل قاعدة بيانات يحتاج ذاكرة ضخمة و ايضا قوة حاسوبية جيدة و غيرها من التعقيدات التي قد تؤثر على النتائج النهائية لذلك في مثل هذه حالات يتم استخدام عدة تقنيات مختلفة منها ال feature extraction و التي تعتبر عملية تضمن تقليل عدد المتغيرات المطلوبة لوصف قاعدة بيانات ضخمة !</description>
     </item>

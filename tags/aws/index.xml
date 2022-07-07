@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS on شاي للذّكاء الاصطناعي</title>
-    <link>https://shaiclub.github.io/shaiclub/tags/aws/</link>
+    <link>https://mohnoor94.github.io/shaiclub/tags/aws/</link>
     <description>Recent content in AWS on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mohnoor94.github.io/shaiclub/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lookout for Vision</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/lookout-for-vision/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/lookout-for-vision/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/lookout-for-vision/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/lookout-for-vision/</guid>
       <description>أعلنت أمازون عن خدمة Amazon Lookout for Vision ، وهي خدمة سحابية تقوم بتحليل صور المنتجات في خط الانتاج و باستخدام Computer vision يتم اكتشاف المنتجات التي فيها عيوب و هذه الخدمة متوفرة عبر (Amazon Web Services) AWS.
 احد ميزات هذه الخدمة سهولة استخدامها حيث انها قادرة على التدرب باستخدام أقل من 30 صورة للمنتج، و تكمن اهميتها بأن مهام التصنيع تكون معرضة للخطأ عندما يكون البشر جزء من العملية الانتاجية.</description>
     </item>
     
     <item>
       <title>Amazon Polly</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/amazon-polly/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/amazon-polly/</link>
       <pubDate>Sun, 28 Feb 2021 04:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/amazon-polly/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/amazon-polly/</guid>
       <description>هي خدمة مقدمة من امازون بتستخدم تقنيات تعلم الآلة العميق لتحويل النص المكتوب لكلام مسموع 📣
 المميز بهاي الخدمة انو طريقة الكلام بتكون طبيعية وقريبة جدا من طريقة كلام الانسان
 واللي بميز هاي الخدمة قدرتها على القراءة بأكثر من لغة من ضمنها اللغة العربية بالأضافة انه ممكن يكون بنفس اللغة أكثر من صوت ويكونوا منوعين بصوت ذكر وانثى🧑👩

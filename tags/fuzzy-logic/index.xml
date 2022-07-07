@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fuzzy Logic on شاي للذّكاء الاصطناعي</title>
-    <link>https://shaiclub.github.io/shaiclub/tags/fuzzy-logic/</link>
+    <link>https://mohnoor94.github.io/shaiclub/tags/fuzzy-logic/</link>
     <description>Recent content in Fuzzy Logic on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/fuzzy-logic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mohnoor94.github.io/shaiclub/tags/fuzzy-logic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>المنطق الضبابي | Fuzzy logic</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/046_fuzzy_logic/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/046_fuzzy_logic/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/046_fuzzy_logic/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/046_fuzzy_logic/</guid>
       <description>المنطق الضبابي (Fuzzy logic) في الذكاء الاصطناعي🌫 في أنظمة الذكاء الاصطناعي (AI)🤖 ، يتم استخدام المنطق الضبابي لتقليد التفكير والإدراك البشري حيث يستخدم في تصميم وتحليل بعض الشبكات العصبية الاصطناعية.
 فبدلاً من حالات الحقيقة الثنائية البحتة true/false يعطي المنطق الضبابي نتائج بين 0 و 1 عندما يتعرض لمسألة لا يستطيع تصنيفها إلى صحيحة✅ ام خاطئة.❌
 نتيجة لذلك ، فإن المنطق الضبابي مناسب تمامًا للهندسة خاصة في التحكم في العمليات🕹 (process control) و التحكم الآلى (automatic control).</description>

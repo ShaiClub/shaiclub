@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weka on شاي للذّكاء الاصطناعي</title>
-    <link>https://shaiclub.github.io/shaiclub/tags/weka/</link>
+    <link>https://mohnoor94.github.io/shaiclub/tags/weka/</link>
     <description>Recent content in Weka on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/weka/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mohnoor94.github.io/shaiclub/tags/weka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Mining with Weka</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/024_data_mining_with_weka/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/024_data_mining_with_weka/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/024_data_mining_with_weka/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/024_data_mining_with_weka/</guid>
       <description>إن استخراج البيانات ليس حصريًا بأي حال من الأحوال للشركات الكبيرة ، في الواقع هناك برامج يمكنها تحقيق جميع الوظائف التي يمكن أن تحققها تلك البرامج باهظة الثمن واحدى هذه البرامج هو WEKA. ولد برنامج WEKA في جامعة وايكاتو (نيوزيلندا) وتم تفعيله لأول مرة في شكله الحديث في عام 1997 ، بحيث اصبح يستخدم رخصة (GPL).
 فما هو برنامج (WEKA)؟
 هو عبارة عن حزمة برمجية مفتوحة المصدر تحتوي على مجموعة من الخوارزميات التي تساعد على تحليل واستخراج البيانات (Data mining).</description>

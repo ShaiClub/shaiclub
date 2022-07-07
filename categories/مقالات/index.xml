@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>مقالات on شاي للذّكاء الاصطناعي</title>
-    <link>https://shaiclub.github.io/shaiclub/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/</link>
+    <link>https://mohnoor94.github.io/shaiclub/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/</link>
     <description>Recent content in مقالات on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mohnoor94.github.io/shaiclub/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>الذكاء الاصطناعي في الوطن العربي</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/054_ai_in_arab_world/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/054_ai_in_arab_world/</link>
       <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/054_ai_in_arab_world/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/054_ai_in_arab_world/</guid>
       <description>في السنوات الأخيرة شهد الذكاء الاصطناعي تطور ملحوظا جدا في العالم وذلك يعود لعدة أسباب كان آخرها جائحة كورونا , مما ساهم في استخدام وانتشار التكنولوجيا بشكل عام والذكاء الاصطناعي بشكل خاص 📉↗
 لكن , ما هو نصيب الوطن العربي في هذا التطور وما هي أكثر الدول اهتماما به ؟🧐 في الحقيقة أنه لم يكن للوطن العربي نصيب الأسد من هذا التطور, لكنه ليس معدوم , ومن أهم الدول العربية المستثمرة في الذكاء الاصطناعي وذلك حسب مؤشر الذكاء الاصطناعي في موقع Tortoise media (موقع إخباري بريطاني)🔥</description>
     </item>
     
     <item>
       <title>استخدام الذكاء الاصطناعي لتحسين الواقع المعزز</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/053_apple_using_ml_with_ar/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/053_apple_using_ml_with_ar/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/053_apple_using_ml_with_ar/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/053_apple_using_ml_with_ar/</guid>
       <description>شركة ابل Apple تستخدم الذكاء الاصطناعي لجعل الواقع المعزز أكثر فاعلية تشير براءة اختراع من شركة Apple إلى أن الشركه تدرس كيف يمكن لتعلم الآله جعل الواقع المعزز أكثر فائدة.🌐
 فمعظم تطبيقات الواقع المعزز الحالية لافتة للإنتباة إلى حد كبير، ولكن القليل منها حقق انتشارًا واسعًا. لذا أدخلت شركة Apple خاصية كشف الضوء والمدى ( LiDAR ) 💡🔦على أجهزتها الحديثة لإعطاء دفعة للواقع المعزز، ولكن من الواضح أنه يحتاج للمزيد من التطوير لجعل تطبيقات الواقع المعزز أكثر فائدة ونفعًا.</description>
     </item>
     
     <item>
       <title>تفوق خوارزمية (علي بابا | Alibaba) لأول مرة على الإنسان</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/visual-questions-answering/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/visual-questions-answering/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/visual-questions-answering/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/visual-questions-answering/</guid>
       <description>تفوقت خوارزمية (علي بابا | Alibaba) للذكاء الاصطناعي لأول مرة على الإنسان في الأسئلة المتعلقة بالصور 🏙🏆
 إذ احتلت خوارزمية (علي بابا) للذكاء الاصطناعي المركز الأول في تحدي (VQA - Visual Questions Answering) العالمي لأول مرة.🥇
 تحدي VQA هو تحدي سنوي عبارة عن تنافس بين خوارزميات الذكاء الاصطناعي متل خوارزميات Facebook, Micrososft و Alibaba لتقديم إجابات على صورة وسؤال متعلق بهاي الصورة مثلا كم عدد الأطفال في صورة غرفة فيها عدد من الأشخاص.</description>
@@ -40,10 +40,10 @@
     
     <item>
       <title>Tesla Bot | الروبوت البشري من تسلا</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/tesla-bot/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/tesla-bot/</link>
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/tesla-bot/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/tesla-bot/</guid>
       <description>أعلن إيلون ماسك مؤسس شركة تيسلا خلال حدث (Tesla&amp;rsquo;s AI Day) عن روبوت بشري تعمل عليه شركة تيسلا 🤖
 النموذج المبدئي للروبوت سيتم إصداره خلال العام القادم، بهدف التقليل من المهام الخطيرة أو الروتينية اللي بقوم فيها البشر والاعتماد على الروبوتات بدلاً من ذلك 🤨
 ورح يكون مزوَّد برقاقات ومستشعرات وثمان كاميرات مشابهة للمستخدمة في سيارات تيسلا ذاتية القيادة، وامتلاكه لحاسوب بستخدم شبكات عصبونية اللي بكل تأكيد بتساعده على القيام بمهمة تمييز الأشياء وفهم اللغات البشرية واتخاذ القرارات والتعلم 🤩</description>
@@ -51,10 +51,10 @@
     
     <item>
       <title>OpenAI Codex</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/codex-openai/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/codex-openai/</link>
       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/codex-openai/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/codex-openai/</guid>
       <description>هل ممكن للذكاء الاصطناعي أن يحل محل المبرمجين؟ 🤔 Codex أداة لتسهيل عمل المبرمجين من خلال الذكاء الاصطناعي
 أطلقت شركة OpenAI أداة جديدة تحت اسم Codex تسمح بترجمة الكلمات الإنجليزية إلى تعليمات برمجية🤩، واستعرضت النسخة التجريبية من الأداة قدرتها على إنشاء وتصميم مواقع إنترنت بسيطة وألعاب بدائية فقط بالاعتماد على اللغة الطبيعية. 💬
 وتتم العملية عبر توجيه الأوامر باللغة الإنجليزية للأداة، مثلًا: “أنشئ صفحة من موقع إلكتروني مع قائمة جانبية على اليمين مع استخدام اللون الأزرق”.</description>
@@ -62,10 +62,10 @@
     
     <item>
       <title>Decision Trees | شجرة القرار</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/decision_trees/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/decision_trees/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/decision_trees/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/decision_trees/</guid>
       <description>Decision Trees أو ما يعرف بأشجار القرار 🔥 هي خوارزمية من أهم الخوارزميات وأشهرها في مجال تعلم الآلة الخاضع للإشراف ( supervised learning) تستخدم رسما شبيها بالشجرة ويكون كل فرع من هذه الشجرة نتيجة لقرار ما , حيث تكون هذه القرارات بناء على المعطيات الموجودة في البيانات 📊
 📌يتم استخدامها لكل من التصنيف والتوقع ( regression and classification )📉
 📌الهدف من هذه الخوارزمية : تستخدم شجرة القرار في تحليل القرارات للمساعدة في تحديد الإستراتيجية التي ستؤدي لتحقيق الهدف عن طريق السمات (Features )</description>
@@ -73,20 +73,20 @@
     
     <item>
       <title>Hide and Seek</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/hide-and-seek/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/hide-and-seek/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/hide-and-seek/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/hide-and-seek/</guid>
       <description>Hide and seek اول اشي خلونا نحكي شوي عن Reinforcement هو احد خوارزميات الذكاء الاصطناعي التي تتميز عن غيرها من الخوارزميات بعدم حاجتها لوجود بيانات(Data)🗃️ اذ تعمل على جمع البيانات التي تحتاجها بنفسها🤖 وتعتمد بذلك على مبدأ التجربةوالخطأ وتقوم بتقييم كل تجربة بناء على مجموعة من القوانين✔️❌ يلي بحددها المبرمج
 موضوعنا اليوم راح يكون عن احد تطبيقات هاي الخوارزمية وهو لعبة من شركة OpenAI فكرة اللعبة هي نفس لعبة الغميضة اللعبة بتتكون من فريقين ( الاحمر🔴 والازوق🔵)</description>
     </item>
     
     <item>
       <title>Grid Search  VS  Random Search</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/047_grid_vs_random/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/047_grid_vs_random/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/047_grid_vs_random/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/047_grid_vs_random/</guid>
       <description>خلال عملية بناء نظم للذكاء الاصطناعي نهتم بإيجاد أفضل قيم تعطى لخوارزميات التعلم قبل البدء بالتدريب، بعملية تعرف باسم Hyperparameter Tuning 📝
 وإيجاد القيم المُثلى للHyperparameters يسمح لنا برفع مستوى دقة وأداء الموديل 📈 ، لكن كيف ممكن نختار القيم؟ 🤔 طريقة الاختيار بتنقسم لطريقتين:
 1️⃣ بشكل يدوي عن طريق التجربة والخطأ:
@@ -95,10 +95,10 @@
     
     <item>
       <title>المنطق الضبابي | Fuzzy logic</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/046_fuzzy_logic/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/046_fuzzy_logic/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/046_fuzzy_logic/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/046_fuzzy_logic/</guid>
       <description>المنطق الضبابي (Fuzzy logic) في الذكاء الاصطناعي🌫 في أنظمة الذكاء الاصطناعي (AI)🤖 ، يتم استخدام المنطق الضبابي لتقليد التفكير والإدراك البشري حيث يستخدم في تصميم وتحليل بعض الشبكات العصبية الاصطناعية.
 فبدلاً من حالات الحقيقة الثنائية البحتة true/false يعطي المنطق الضبابي نتائج بين 0 و 1 عندما يتعرض لمسألة لا يستطيع تصنيفها إلى صحيحة✅ ام خاطئة.❌
 نتيجة لذلك ، فإن المنطق الضبابي مناسب تمامًا للهندسة خاصة في التحكم في العمليات🕹 (process control) و التحكم الآلى (automatic control).</description>
@@ -106,10 +106,10 @@
     
     <item>
       <title>AlphaFold: Protein Almanac Of The World</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/045_alphafold/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/045_alphafold/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/045_alphafold/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/045_alphafold/</guid>
       <description>الفافولد: قاموس البروتينات العالمي شركة DeepMind وهي شركة تابعة لجوجل، أثبتت مؤخراً قدرة الذكاء الاصطناعي الدقيقة على التنبأ بهيكلية البروتينات بعدة ايام فقط، طيب شو يعني🧐؟
 معرفة هيكلية البروتين هي عملية معقدة جداً و بنفس الوقت أساسية لتحليل الأمراض وكيفية التعامل معها وكثير من المشاكل في عالم الطب والاحياء👌🏻
 ومؤخراً نتيجة دمج الذكاء الاصطناعي مع هذا العلم تمكنت الشركة من حل تحدي حيّر العلماء لمدة ٥٠ سنة!
@@ -118,10 +118,10 @@
     
     <item>
       <title>Pytorch Vs Tensorflow 2021</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/044_pytorch_vs_tensorflow/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/044_pytorch_vs_tensorflow/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/044_pytorch_vs_tensorflow/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/044_pytorch_vs_tensorflow/</guid>
       <description>شو الفرق بين اخر نسخه من Tensorflow و Pytorch المكتبتين تعتبران أكثر مكتبتين شهرة فى مجال تعليم الآلة: Tensorflow من تصميم شركة جوجل Google. وPytorch من تصميم فيس بوك Facebook سنقارن في هذا المقال بين أخر إصدارين منهما.
 Tensorflow 2.x: هنالك الكثير من التعديلات بين Tensorflow 1 وبين Tensorflow 2.x
 📌أولاً إصدار Tensorflow.js🌐
@@ -130,10 +130,10 @@ Tensorflow 2.x: هنالك الكثير من التعديلات بين Tensorflo
     
     <item>
       <title>هل الذكاء الاصطناعي متحيز و عنصري؟</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/043_bias_in_ai/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/043_bias_in_ai/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/043_bias_in_ai/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/043_bias_in_ai/</guid>
       <description>كلنا بنعرف الذكاء الاصطناعي وتعلم الآلة وبنعرف تطبيقاتها .. لكن هل بنعرف عن أخلاقيات تعلم الالة؟ 🧐
 في آخر عدة سنوات العالم في اقبال كبير على تطبيقات الذكاء الاصطناعي وتعلم الآلة وخاصة بعد كورونا😷 ومع انتشار هذه التطبيقات زاد الأمل بانخفاض معدل التحيز في العالم إما بالنسبة للعرق أو للجنس أو للدين أو للمستوى الإجتماعي.
 لكن السؤال .. بعد استخدام الذكاء الاصطناعي وتعلم الآلة هل صار العالم أكثر عدل وانصاف ؟</description>
@@ -141,10 +141,10 @@ Tensorflow 2.x: هنالك الكثير من التعديلات بين Tensorflo
     
     <item>
       <title>Anticipating Heart Failure with ML</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/042_anticipating_heart_failure/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/042_anticipating_heart_failure/</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/042_anticipating_heart_failure/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/042_anticipating_heart_failure/</guid>
       <description>كلنا بنعرف أهمية الذكاء الاصطناعي وزيادة الأبحاث والاعتماد عليه بمختلف المجالات 📉
 وواحد من المجالات اللي بزيد الطلب فيها على الذكاء الاصطناعي هو الطب 👨‍⚕️
 باحثين من معهد MIT طوروا خوارزمية قادرة على اكتشاف درجة احتباس السوائل بالرئة من صورة X-ray واحدة فقط 🤓
@@ -153,20 +153,20 @@ Tensorflow 2.x: هنالك الكثير من التعديلات بين Tensorflo
     
     <item>
       <title>مراقبة النوم بمساعدة الذكاء الاصطناعي</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/041_ai_monitor_sleep/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/041_ai_monitor_sleep/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/041_ai_monitor_sleep/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/041_ai_monitor_sleep/</guid>
       <description>على الرغم من أننا نقضي ما يقرب من ثلث حياتنا في النوم (أو على الأقل نحاول)😥🤦‍♂️، فإن النوم غير مفهوم جيدا من قبل العلماء. مع ذلك نسبة كبيرة من الناس لا يحصلون على ما يكفي منه🥱🥱.
 المشكلة تكمن في صعوبة دراسة النوم🤔🛌. تتطلب التجارب قدوم الأفراد إلى المستشفى،وتغطية أنفسهم بجيش من الأقطاب الكهربائية😱 والسماح لفريق من الأطباء👨‍⚕️ بمراقبتهم . وهذه البيئة من الصعب الحصول على بيانات حول النوم الطبيعي كما في المنزل💒.</description>
     </item>
     
     <item>
       <title>ما هو موقع  ImageNet ؟</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/040_imagenet/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/040_imagenet/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/040_imagenet/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/040_imagenet/</guid>
       <description>موقع ImageNet هو موقع مفتوح المصدر يحتوي على ما يقارب ال1.5مليون صورة مصنفة إلى ما يقارب الـ 22000🤩 فئة لغرض تعزيز الأبحاث في مجال الرؤية الحاسوبية👁.
 ومع ذلك ، عندما نسمع مصطلح &amp;ldquo;ImageNet&amp;rdquo; في سياق التعلم العميق والشبكات العصبية التلافيفية (Convolutional Neural Networks) ، فإننا نشير على الأرجح إلى تحدي التعرف البصري الخاص ب ImageNet 🎯.
 ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذا التحدي هو تدريب نموذج يمكنه تصنيف صورة بشكل صحيح من ضمن 1000🤯 فئة.</description>
@@ -174,10 +174,10 @@ ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذ
     
     <item>
       <title> الذكاء الاصطناعي | 2021 | Top Trends in AI</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/039_top_trends_ai_2021/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/039_top_trends_ai_2021/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/039_top_trends_ai_2021/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/039_top_trends_ai_2021/</guid>
       <description>الذكاء الاصطناعي 2021 نمى اعتماد الذكاء الاصطناعي في المؤسسات المختلفة بسبب أزمة covid-19😷😷. في عام 2019 ، توقعت IDC أن يزيد الإنفاق على تقنيات الذكاء الاصطناعي إلى 97.9 مليار دولار 💵💵بحلول عام 2023. منذ أن ضربت جائحة COVID-19😷 العالم ، زادت القيمة المحتملة للذكاء الاصطناعي📈.
 أشارت دراسة استقصائية نشرتها ولاية ماكينزي للذكاء الاصطناعي في نوفمبر 2020 إلى أن نصف المنظمات على الأقل قد اعتمدت وظائف الذكاء الاصطناعي في مؤسساتها.
 مع استمرار المنظمات في أتمتة العمليات اليومية وفهم مجموعات البيانات المتأثرة بـ COVID🖥️🖥️ ، تزداد أهمية الذكاء الاصطناعي.</description>
@@ -185,10 +185,10 @@ ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذ
     
     <item>
       <title>Data Mining with Weka</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/024_data_mining_with_weka/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/024_data_mining_with_weka/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/024_data_mining_with_weka/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/024_data_mining_with_weka/</guid>
       <description>إن استخراج البيانات ليس حصريًا بأي حال من الأحوال للشركات الكبيرة ، في الواقع هناك برامج يمكنها تحقيق جميع الوظائف التي يمكن أن تحققها تلك البرامج باهظة الثمن واحدى هذه البرامج هو WEKA. ولد برنامج WEKA في جامعة وايكاتو (نيوزيلندا) وتم تفعيله لأول مرة في شكله الحديث في عام 1997 ، بحيث اصبح يستخدم رخصة (GPL).
 فما هو برنامج (WEKA)؟
 هو عبارة عن حزمة برمجية مفتوحة المصدر تحتوي على مجموعة من الخوارزميات التي تساعد على تحليل واستخراج البيانات (Data mining).</description>
@@ -196,10 +196,10 @@ ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذ
     
     <item>
       <title>شريحة التعلم العميق الجديدة من Cerebras Systems</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/023_cerebras_systems/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/023_cerebras_systems/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/023_cerebras_systems/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/023_cerebras_systems/</guid>
       <description>تعتبر شريحة التعلم العميق الجديدة من Cerebras Systems الأكبر والأعظم على الأطلاق فهي أكبر من لوحة المفاتيح 😎.
 مقارنة بأكبر GPU والتي تشمل على مليار ترانزستور، فإن رقاقةSystems Cerebras تشمل 1,2 تريليون الترانزستورات وتتطلب 46.225 مليمترا مربعة من السيليكون😯
 مواصفات رقائق نظام Cerebras طورت Cerebras شريحتها للتعلم العميق، حيث تقوم بتنفيذ &amp;ldquo;على نطاق رقاقة&amp;rdquo; لشبكة عصبية تجمع بشكل أساسي المنطق والاتصال والذاكرة على قطعة واحدة من السيليكون. على الرغم من أن تصنيعها مكلف💸 إلا أن الشركة تعتقد أن التوصيلات البينية على الرقاقة أسرع وأقل تكلفة من بناء وتوصيل النوى المنفصلة.</description>
@@ -207,10 +207,10 @@ ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذ
     
     <item>
       <title>Boosting and AdaBoosting algorithms</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/022_adaboosting_algorithms/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/022_adaboosting_algorithms/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/022_adaboosting_algorithms/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/022_adaboosting_algorithms/</guid>
       <description>في هذا المقال سنتحدث عن كيفية عمل الBoosting وكيف يتم تدريب خوارزمية AdaBoost.
 أولا ما هي خوارزمية التعزيز(Boosting)
 هي طريقة لتحويل المصنفات الضعيفة (weak classifiers) إلى مصنفات قوية (strong classifiers)، يتم ذلك عن طريق بناء نموذج من بيانات التدريب، ثم إنشاء نموذج ثانٍ يحاول تصحيح الأخطاء من النموذج الأول. تتم إضافة النماذج حتى يتم توقع مجموعة التدريب تمامًا أو يتم إضافة أقصى عدد من النماذج.
@@ -219,10 +219,10 @@ ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذ
     
     <item>
       <title>أول نكهة يتم انشاؤها بواسطة الذكاء الاصطناعي 😋</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/worlds-first-ai-created-flavor/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/worlds-first-ai-created-flavor/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/worlds-first-ai-created-flavor/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/worlds-first-ai-created-flavor/</guid>
       <description>أعلنت شركة Firmenich، أكبر شركة عطور ونكهات مملوكة للقطاع الخاص في العالم، انها ابتكرت أول نكهة بواسطة الذكاء الاصطناعي.
 وكانت النكهة عبارة عن نكهة لحم بقري خفيف الشواء لاستخدامه في تصنيع بدائل اللحوم النباتية.
 وقال المدير الرقمي في الشركة أن الذكاء الاصطناعي يساعد خبراء النكهات على تطوير نكهات جديدة إما عن طريق تزويدهم بصيغة بدائية دقيقة للنكهة أو من خلال تقديم اقتراحات إضافية لمجموعة المكونات اللازمة لتطوير نكهة جديدة. وبالتالي يعمل الذكاء الاصطناعي على تسريع عملية تطوير النكهة وكذلك استخدام مكونات اقل لتطويرها.</description>
@@ -230,20 +230,20 @@ ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذ
     
     <item>
       <title>Zoox</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/020_zoox/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/020_zoox/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/020_zoox/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/020_zoox/</guid>
       <description>Zoox هي نسخة ذاتية القيادة من سيارات التاكسي (robotaxi) 🚕. السيارة كهربائية بالكامل ببطارية بتدوم 16 ساعة من الاستخدام المتواصل وسرعة قيادة تصل إلى 75 ميل بالساعة.
 السيارة تعتمد اعتماد كبير على الذكاء الاصطناعي وتعلم الآلة في توجيه مسارها وتحديد الخيارات الأنسب لتحركاتها القادمة، فمثلًا تستخدم الcomputer vision لتفهم الأشياء اللي حولها زي الإشارات الضوئية واللوحات الإرشادية⚠️، وبالتأكيد بتعمل على تصنيف الأجسام المتحركة إذا كانت سيارات أو مشاة 🚸 (أو حتى عمّال صيانة الطرق!</description>
     </item>
     
     <item>
       <title>CloudMinds</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/019_cloudminds/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/019_cloudminds/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/019_cloudminds/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/019_cloudminds/</guid>
       <description>CloudMinds هي شركة متخصصة بتصميم أنظمة ذكاء اصطناعي سحابية للروبوتات☁
 هدف الشركة هو إنتاج روبوتات ذكية للاستعمال المنزلي والتجاري 😎يعني رح يصير عندك روبوت بالبيت 😁
 الروبوتات مدعومة بتقنيات مثل الcomputer vision👁 والNLP🔈 واستشعار الملامح وحركات الجسم حتى تقدر تتفاعل مع البشر وتنفذ الأوامر مثل التنظيف والرعاية او الخدمات التجارية مثل الاستقبال وغيرهم او حتى يتفاعلوا مع بعض لما يشتغلوا مع بعض.
@@ -252,10 +252,10 @@ ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذ
     
     <item>
       <title>Tableau</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/018_tableau/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/018_tableau/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/018_tableau/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/018_tableau/</guid>
       <description>يتيح Tableau للجميع رؤية وفهم بياناتهم 📊
 Tableau هو برنامج لتصور وتمثيل البيانات يتم استخدامه في علم البيانات وذكاء الأعمال اذ يستطيع إنشاء مجموعة واسعة من التصورات المختلفة لتقديم بيانات بصورة تفاعلية تساعدنا على فهم وتحليل هذه البيانات باستخدام أدوات يقدمها البرنامج بطريقة بسيطة. 🗂
 يساعد Tableau في إنشاء بيانات يمكن فهمها من قبل اي شخص بغض النظر عن مستوى احترافيته في المؤسسة. 🤔
@@ -264,10 +264,10 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>Power BI</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/017_power_bi/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/017_power_bi/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/017_power_bi/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/017_power_bi/</guid>
       <description>هو احد برامج شركة مايكروسوفت المختص بمعالجة البيانات و تحليلها و صنع المخططات البيانية
 اما عن BI بالاسم فهي اختصار ل Business Intelligence
 استخدام البرنامج اما يتم بشكل online على الموقع او عن طريق تثبيت البرنامج على الجهاز. حاليا خدمة Power BI متخصصة بشكل اكبر حسب نوع الجهاز و حسب نوع الخدمة الي بدك تستخدمها
@@ -276,20 +276,20 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>AI Incident Database | قاعدة بيانات حوادث الذكاء الاصطناعي لتجنب تكرار أضرارها 🚫</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/ai-incident-database/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/ai-incident-database/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/ai-incident-database/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/ai-incident-database/</guid>
       <description>رة تلو أخرى عن حالات فشل لأنظمة الذكاء الاصطناعي، مثل تحيز خوارزميات الإقراض ضد النساء🙍‍♀️ وعنصرية خوارزميات التعرف على الوجوه ضد ذوي البشرة السمراء 🙍🏿‍♂️ وترويج أنظمة التوصية على منصات التواصل الاجتماعي للمحتوى العنيف أو لنظريات المؤامرة &amp;hellip; ☠
 حيث قامت مؤسسة الشراكة حول الذكاء الاصطناعي (PAI) التي تضم عدداً من المنظمات غير الربحية بالإضافة إلى شركات التكنولوجيا العملاقة مثل آبل وجوجل وأمازون وفيسبوك وآي بي إم ومايكروسوفت، بتمويل إطلاق قاعدة بيانات حوادث الذكاء الاصطناعي (AIID) 🔥</description>
     </item>
     
     <item>
       <title>Data Mining VS Machine Learning🎖</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/data-mining-vs-machine-learning/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/data-mining-vs-machine-learning/</link>
       <pubDate>Sun, 07 Mar 2021 02:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/data-mining-vs-machine-learning/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/data-mining-vs-machine-learning/</guid>
       <description>🔴 مصطلح تنقيب البيانات Data mining يستخدم بشكل كبير في عالم الأعمال&amp;hellip; 💲 حيث يعبر عن تقنيات لتحليل البيانات والكشف عن العلاقات والانماط الموجودة بدون معرفة سابقة بها&amp;hellip; بمعنى اخر بنستخدمها عشان نستفيد من الداتا بحلول عملية.🖋🔦
 ⬅️ من الامثلة عليها استخدام الاسواق التجارية لهاي التقنيات لمعرفة الاصناف الي بتم شراءها مع بعض من قبل الزبائن&amp;hellip; ف بعيدوا ترتيب المكان بحيث يضعوا هاي الاصناف بالقرب من بعضها.🏬
 🔴 اما مصطلح ال Machine Learning فهو بمثل جزء من ال Artificial Intelligence &amp;hellip; الفكرة منه انه الكمبيوتر يتعلم من الداتا ويحللها، بهدف انه يعمم الانماط الي تعلمها على داتا جديدة.</description>
@@ -297,20 +297,20 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>Lookout for Vision</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/lookout-for-vision/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/lookout-for-vision/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/lookout-for-vision/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/lookout-for-vision/</guid>
       <description>أعلنت أمازون عن خدمة Amazon Lookout for Vision ، وهي خدمة سحابية تقوم بتحليل صور المنتجات في خط الانتاج و باستخدام Computer vision يتم اكتشاف المنتجات التي فيها عيوب و هذه الخدمة متوفرة عبر (Amazon Web Services) AWS.
 احد ميزات هذه الخدمة سهولة استخدامها حيث انها قادرة على التدرب باستخدام أقل من 30 صورة للمنتج، و تكمن اهميتها بأن مهام التصنيع تكون معرضة للخطأ عندما يكون البشر جزء من العملية الانتاجية.</description>
     </item>
     
     <item>
       <title>Amazon Polly</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/amazon-polly/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/amazon-polly/</link>
       <pubDate>Sun, 28 Feb 2021 04:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/amazon-polly/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/amazon-polly/</guid>
       <description>هي خدمة مقدمة من امازون بتستخدم تقنيات تعلم الآلة العميق لتحويل النص المكتوب لكلام مسموع 📣
 المميز بهاي الخدمة انو طريقة الكلام بتكون طبيعية وقريبة جدا من طريقة كلام الانسان
 واللي بميز هاي الخدمة قدرتها على القراءة بأكثر من لغة من ضمنها اللغة العربية بالأضافة انه ممكن يكون بنفس اللغة أكثر من صوت ويكونوا منوعين بصوت ذكر وانثى🧑👩
@@ -319,30 +319,30 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>AI and Prostate Cancer | دور الذكاء الاصطناعي في الكشف عن سرطان البروستات</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/ai-and-prostate-cancer/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/ai-and-prostate-cancer/</link>
       <pubDate>Sun, 28 Feb 2021 02:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/ai-and-prostate-cancer/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/ai-and-prostate-cancer/</guid>
       <description>سرطان البروستات واحد من اكثر امراض السرطان شيوعا،قبل استخدام الذكاء الاصطناعي كان يتم الكشف عن وجود هاذ المرض باستخدام فحص الPSA وهو عامل السرطان في الدم ولكن للاسف نسبة دقته فقط ٣٠% ومع هيك نسبة دقة قليلة بلزم وجود فحوص اخرى بصاحبها اعراض جانبية كالنزيف🚫
 💡و كان الحل عند المعهد الكوري للعلوم والتكنولوجيا (KIST) عن طريق الذكاء الاصطناعي باستخدام جهاز استشعار حيوي لاشباه الموصلات فائق الحساسية قائم على الإشارات الكهربائية 📉</description>
     </item>
     
     <item>
       <title>AI and ASD | الذكاء الاصطناعي في تشخيص مرض التوحد</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/ai-and-asd/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/ai-and-asd/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/ai-and-asd/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/ai-and-asd/</guid>
       <description>استخدم الباحثون التعلم الآلي🤖 لتقليل عدد البروتينات المرتبطة بتحديد اضطراب طيف التوحد من اكثر من 1100 بروتين بلازما وصولًا إلى تسعة بروتينات فقط 😯مرتبطة باضطراب طيف التوحد (ASD). ننتظر الان التحقق من هذا التقدم بتجارب اضافية ، هذا التقدم سيسهل التخطيط للرعاية وعلاج الاطفال والمصابين بهذا الاضطراب في وقت أبكر بكثير من متوسط ​​العمر الحالي للتشخيص البالغ 4 سنوات.
 يصف الفريق القائم على هذا المشروع عمله في دراسة تم نشرها في 24 فبراير في Plos One</description>
     </item>
     
     <item>
       <title>Schrödinger&#39;s Equation | 😎 الذكاء الاصطناعي حل معادلة شرودنجر </title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/schrodinger-equation/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/schrodinger-equation/</link>
       <pubDate>Sat, 27 Feb 2021 02:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/schrodinger-equation/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/schrodinger-equation/</guid>
       <description>بدايةً شو هي معادلة شرودنجر؟
 معادلة شرودنجر هي مشكلة أساسية في كيمياء الكم، والمعادلة عبارة عن طريقة لتحقيق هدف معين (طبعاً تحقيقه من حيث المبدأ فقط ، لانه صعب تحقيقه من الناحية العملية)
 وكيمياء الكم هي فرع من فروع الكيمياء بتركز على التنبؤ بالخصائص الكيميائية والفيزيائية للجزيئات بناءً على ترتيب ذراتها في الفضاء فقط، بعيداً عن تطبيق تجارب عملية. 👨‍🔬
@@ -351,10 +351,10 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>Technological Singularity | التفرد التكنولوجي</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/technological-singularity/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/technological-singularity/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/technological-singularity/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/technological-singularity/</guid>
       <description>التفرد (Singularity): أو التفرد التكنولوجي (Technological Singularity)، وهي فرضية أن البشرية ستصل إلى مستوى عال جداً من التطور التكنولوجي، يسبب بدوره انفجار معرفي وتغييرات جذرية في الحضارة البشرية ممكن أن تصل إلى تهديد وجود الجنس البشري 🚫 وأحد اهم اسبابه:
 ✔ ابتكار آلات ذكاء اصطناعي خارقة تتفوق على ذكاء الجنس البشري
 ✔ قدرة شبكات الحاسوب على محاكاة التفكير والوعي والإدراك البشري
@@ -363,10 +363,10 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>CareAngel</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/care-angel/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/care-angel/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/care-angel/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/care-angel/</guid>
       <description>عمرك صار عندك اعراض وحاولت تدور عن هاي الاعراض على الانترنت والنتائج كانت مخيفة او حتى غريبة؟ بتكتب الاعراض اللي حاسس فيها وبتدور عالاسباب وبالاخير بتلاقي التشخيص يا اما بمرض مهدد للحياة او انفلونزا عادية!
 بدل ما تدور على الاعراض اللي بتعاني منها بتقدر تسأل مساعد التمريض الافتراضي عنها وهو بعطيك تشخيص ادق من نتائج الانترنت وبقدملك نصيحة طبية لما تكون الاعراض شائعة ومش خطيرة.
 بوفر مساعد التمريض الافتراضي المبني على الذكاء الاصطناعي تجربة خاصة لكل شخص.</description>
@@ -374,10 +374,10 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>Google Brain</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/google-brain/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/google-brain/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/google-brain/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/google-brain/</guid>
       <description>هو فريق من شركة google مختص بال Deap learning بشكل خاص و بالذكاء الاصطناعي بشكل عام
 عمل الفريق كثير من الابحاث في مجال تعلم الالة بحيث كان بده يعرف لوين ممكن يوصل المجال في المستقبل و وين هو حاليا 📃
 فكثير طوروا على تطبيقات نحنا منستخدمها شبه يومي مثل google translate و بعض انواع الكاميرات و الكثير &amp;hellip; 📲
@@ -386,10 +386,10 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>AI in Healthcare</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/ai-in-healthcare/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/ai-in-healthcare/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/ai-in-healthcare/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/ai-in-healthcare/</guid>
       <description>اهم خوارزميات الذكاء الصناعي الجديدة 🤖في المجال الطبي التي احدثت ثورة في المجال 🤩
 ١- الاشعة
 في عام ٢٠١٨ تم تطوير تقنيات ال deep learning على صور اشعة الصدر لعدد كبير من المرضى حتى اصبحت قادرة على التغلب على تشخيص الاطباء للمرض بفارق كبير
@@ -401,19 +401,19 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>Self driving cars السيارات ذاتية القيادة 🧐🚗</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/self-driving-cars/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/self-driving-cars/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/self-driving-cars/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/self-driving-cars/</guid>
       <description>ازداد الحديث عن السيارات ذاتية القيادة في الآونة الأخيرة على الرغم من أن أول سيارة من هذا النوع ظهرت في ثمانينيات القرن الماضي من خلال مختبرات &amp;ldquo;Navlab&amp;rdquo; التابعة لجامعة ميلون(CMU) عام 1984 و ايضا مشروع مرسيدس بنز و جامعة(Bundeswehr) في ألمانيا عام 1987 . ومن ثم بدأت العديد من الشركات الكبرى بتطوير نماذج اولية و توالت التطورات في هذه السيارات بشكل كبير بمشاركة أكثر من 35 شركة سيارات من بينها شركات تسلا و جنرال موتورز و آبل و غوغل و تويوتا و بي ام دبليو و فورد و غيرها الكثير .</description>
     </item>
     
     <item>
       <title>القتال الجوّي الكاذب | Fake Air Fighting 🛩</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/fake-air-fighting/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/fake-air-fighting/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/fake-air-fighting/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/fake-air-fighting/</guid>
       <description>قاتل طيّار عدواً افتراضياً في الجو باستخدام الذكاء الاصطناعي ⚡️
 كان هدف هذه التجربة اختبار تكامل عامل مقاتل مستقل طوّرته EpiSci مع تقنيات Red Six Aerospace 🚀
 سيطر EpiSci على مقاتلة طائرة صينية من طراز J-20 تدعى بالشبح بإستخدام مزيج من التعلم العميق Deep Learning والتعلم المعزز Reinforcement Learning والنمذجة القائمة على القواعد، وأكدت التجربة أنها عملت بشكل جيد واستجابت لمدخلات العالم الحقيقي من GPS وأجهزة الاستشعار بالقصور الذاتي 📡</description>
@@ -421,30 +421,30 @@ Tableau هو برنامج لتصور وتمثيل البيانات يتم است
     
     <item>
       <title>Baaz App</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/baaz-app/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/baaz-app/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/baaz-app/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/baaz-app/</guid>
       <description>باز هي منصة وسائل تواصل اجتماعية تم إنشاؤها خصيصا للعالم العربي. ويوفر للمستخدمين تبادل المعلومات ويخلق بيئة امنة وواقعية لتبادل الثقافي مما يعكس الثقافة العربية.
 وحتى تقدر منصة باز توفر بيئة آمنة للمستخدمين ومحتوى ملائم استخدموا طرق كثيرة للتحقق من المستخدمين او ما يسمى(identity verification) باستخدام عملية &amp;ldquo;اعرف عميلك&amp;rdquo; وهي الKYC وبالشراكة مع Shufti Pro اللي بتستخدم اكثر من ٩٠٠ خوارزمية ذكاء اصطناعي للحصول على افضل نتائج و طريقة KYC مستخدمة ايضا في البنوك والمواقع الشراء الالكترونية لمنع الاحتيال والجرائم الالكترونية.</description>
     </item>
     
     <item>
       <title>Feature Extraction</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/feature-extraction/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/feature-extraction/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/feature-extraction/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/feature-extraction/</guid>
       <description>عند تحليل البيانات المعقدة عدد المتغيرات (variables ) التي تتكون منها قاعدة البيانات من اكثر المشاكل التي قد تكون عائق امامك بهذه العملية 🧮
 لان تحليل عدد ضخم من المتغيرات داخل قاعدة بيانات يحتاج ذاكرة ضخمة و ايضا قوة حاسوبية جيدة و غيرها من التعقيدات التي قد تؤثر على النتائج النهائية لذلك في مثل هذه حالات يتم استخدام عدة تقنيات مختلفة منها ال feature extraction و التي تعتبر عملية تضمن تقليل عدد المتغيرات المطلوبة لوصف قاعدة بيانات ضخمة !</description>
     </item>
     
     <item>
       <title>Deep Fake | التزييف العميق</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/deep-fake/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/deep-fake/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/deep-fake/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/deep-fake/</guid>
       <description>«الجانب المظلم للذكاء الاصطناعي»
 هي تقنية تعمل باستخدام الذكاء الاصطناعي على التلاعب في الفيديوهات ليظهر الاشخاص بملامح غير ملامحهم
 وظهر مصطلح الزيف العميق لأول مرة على شبكة الإنترنت سنة 2017 في موقع Reddit باسم &amp;ldquo;Deepfake&amp;rdquo; حيث انتشرت مقاطع فيديو يظهر فيها وجوه شخصيات سينمائية بدلًا من الممثلين الحقيقيين، وأدى ذلك فيما بعد إلى انتشار خوارزميات وتطبيقات تسهّل استخدام هذه التقنية من قبل أي شخص مما ادى الى انتشار القلق تجاه هذه الظاهرة</description>

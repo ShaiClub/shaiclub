@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on شاي للذّكاء الاصطناعي</title>
-    <link>https://shaiclub.github.io/shaiclub/tags/deep-learning/</link>
+    <link>https://mohnoor94.github.io/shaiclub/tags/deep-learning/</link>
     <description>Recent content in Deep Learning on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sun, 28 Feb 2021 04:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 04:00:00 +0000</lastBuildDate><atom:link href="https://mohnoor94.github.io/shaiclub/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon Polly</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/amazon-polly/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/amazon-polly/</link>
       <pubDate>Sun, 28 Feb 2021 04:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/amazon-polly/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/amazon-polly/</guid>
       <description>هي خدمة مقدمة من امازون بتستخدم تقنيات تعلم الآلة العميق لتحويل النص المكتوب لكلام مسموع 📣
 المميز بهاي الخدمة انو طريقة الكلام بتكون طبيعية وقريبة جدا من طريقة كلام الانسان
 واللي بميز هاي الخدمة قدرتها على القراءة بأكثر من لغة من ضمنها اللغة العربية بالأضافة انه ممكن يكون بنفس اللغة أكثر من صوت ويكونوا منوعين بصوت ذكر وانثى🧑👩
@@ -21,10 +21,10 @@
     
     <item>
       <title>Google Brain</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/google-brain/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/google-brain/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/google-brain/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/google-brain/</guid>
       <description>هو فريق من شركة google مختص بال Deap learning بشكل خاص و بالذكاء الاصطناعي بشكل عام
 عمل الفريق كثير من الابحاث في مجال تعلم الالة بحيث كان بده يعرف لوين ممكن يوصل المجال في المستقبل و وين هو حاليا 📃
 فكثير طوروا على تطبيقات نحنا منستخدمها شبه يومي مثل google translate و بعض انواع الكاميرات و الكثير &amp;hellip; 📲

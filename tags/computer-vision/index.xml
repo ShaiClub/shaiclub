@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision on شاي للذّكاء الاصطناعي</title>
-    <link>https://shaiclub.github.io/shaiclub/tags/computer-vision/</link>
+    <link>https://mohnoor94.github.io/shaiclub/tags/computer-vision/</link>
     <description>Recent content in Computer Vision on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mohnoor94.github.io/shaiclub/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anticipating Heart Failure with ML</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/042_anticipating_heart_failure/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/042_anticipating_heart_failure/</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/042_anticipating_heart_failure/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/042_anticipating_heart_failure/</guid>
       <description>كلنا بنعرف أهمية الذكاء الاصطناعي وزيادة الأبحاث والاعتماد عليه بمختلف المجالات 📉
 وواحد من المجالات اللي بزيد الطلب فيها على الذكاء الاصطناعي هو الطب 👨‍⚕️
 باحثين من معهد MIT طوروا خوارزمية قادرة على اكتشاف درجة احتباس السوائل بالرئة من صورة X-ray واحدة فقط 🤓
@@ -21,10 +21,10 @@
     
     <item>
       <title>ما هو موقع  ImageNet ؟</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/040_imagenet/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/040_imagenet/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/040_imagenet/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/040_imagenet/</guid>
       <description>موقع ImageNet هو موقع مفتوح المصدر يحتوي على ما يقارب ال1.5مليون صورة مصنفة إلى ما يقارب الـ 22000🤩 فئة لغرض تعزيز الأبحاث في مجال الرؤية الحاسوبية👁.
 ومع ذلك ، عندما نسمع مصطلح &amp;ldquo;ImageNet&amp;rdquo; في سياق التعلم العميق والشبكات العصبية التلافيفية (Convolutional Neural Networks) ، فإننا نشير على الأرجح إلى تحدي التعرف البصري الخاص ب ImageNet 🎯.
 ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذا التحدي هو تدريب نموذج يمكنه تصنيف صورة بشكل صحيح من ضمن 1000🤯 فئة.</description>
@@ -32,20 +32,20 @@ ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذ
     
     <item>
       <title>Zoox</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/020_zoox/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/020_zoox/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/020_zoox/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/020_zoox/</guid>
       <description>Zoox هي نسخة ذاتية القيادة من سيارات التاكسي (robotaxi) 🚕. السيارة كهربائية بالكامل ببطارية بتدوم 16 ساعة من الاستخدام المتواصل وسرعة قيادة تصل إلى 75 ميل بالساعة.
 السيارة تعتمد اعتماد كبير على الذكاء الاصطناعي وتعلم الآلة في توجيه مسارها وتحديد الخيارات الأنسب لتحركاتها القادمة، فمثلًا تستخدم الcomputer vision لتفهم الأشياء اللي حولها زي الإشارات الضوئية واللوحات الإرشادية⚠️، وبالتأكيد بتعمل على تصنيف الأجسام المتحركة إذا كانت سيارات أو مشاة 🚸 (أو حتى عمّال صيانة الطرق!</description>
     </item>
     
     <item>
       <title>CloudMinds</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/019_cloudminds/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/019_cloudminds/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/019_cloudminds/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/019_cloudminds/</guid>
       <description>CloudMinds هي شركة متخصصة بتصميم أنظمة ذكاء اصطناعي سحابية للروبوتات☁
 هدف الشركة هو إنتاج روبوتات ذكية للاستعمال المنزلي والتجاري 😎يعني رح يصير عندك روبوت بالبيت 😁
 الروبوتات مدعومة بتقنيات مثل الcomputer vision👁 والNLP🔈 واستشعار الملامح وحركات الجسم حتى تقدر تتفاعل مع البشر وتنفذ الأوامر مثل التنظيف والرعاية او الخدمات التجارية مثل الاستقبال وغيرهم او حتى يتفاعلوا مع بعض لما يشتغلوا مع بعض.
@@ -54,10 +54,10 @@ ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذ
     
     <item>
       <title>Lookout for Vision</title>
-      <link>https://shaiclub.github.io/shaiclub/post/articles/lookout-for-vision/</link>
+      <link>https://mohnoor94.github.io/shaiclub/post/articles/lookout-for-vision/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shaiclub.github.io/shaiclub/post/articles/lookout-for-vision/</guid>
+      <guid>https://mohnoor94.github.io/shaiclub/post/articles/lookout-for-vision/</guid>
       <description>أعلنت أمازون عن خدمة Amazon Lookout for Vision ، وهي خدمة سحابية تقوم بتحليل صور المنتجات في خط الانتاج و باستخدام Computer vision يتم اكتشاف المنتجات التي فيها عيوب و هذه الخدمة متوفرة عبر (Amazon Web Services) AWS.
 احد ميزات هذه الخدمة سهولة استخدامها حيث انها قادرة على التدرب باستخدام أقل من 30 صورة للمنتج، و تكمن اهميتها بأن مهام التصنيع تكون معرضة للخطأ عندما يكون البشر جزء من العملية الانتاجية.</description>
     </item>
