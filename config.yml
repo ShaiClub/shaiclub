@@ -94,7 +94,7 @@ params:
 
   label:
     text: شاي للذّكاء الاصطناعي
-    icon: /shai.png
+    icon: shai.png
     iconHeight: 50
 
   assets:
