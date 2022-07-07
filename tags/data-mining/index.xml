@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Mining on شاي للذّكاء الاصطناعي</title>
-    <link>https://www.shaiclub.com/tags/data-mining/</link>
+    <link>https://shaiclub.github.io/shaiclub/tags/data-mining/</link>
     <description>Recent content in Data Mining on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Mining with Weka</title>
-      <link>https://www.shaiclub.com/post/articles/024_data_mining_with_weka/</link>
+      <link>https://shaiclub.github.io/shaiclub/post/articles/024_data_mining_with_weka/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shaiclub.com/post/articles/024_data_mining_with_weka/</guid>
+      <guid>https://shaiclub.github.io/shaiclub/post/articles/024_data_mining_with_weka/</guid>
       <description>إن استخراج البيانات ليس حصريًا بأي حال من الأحوال للشركات الكبيرة ، في الواقع هناك برامج يمكنها تحقيق جميع الوظائف التي يمكن أن تحققها تلك البرامج باهظة الثمن واحدى هذه البرامج هو WEKA. ولد برنامج WEKA في جامعة وايكاتو (نيوزيلندا) وتم تفعيله لأول مرة في شكله الحديث في عام 1997 ، بحيث اصبح يستخدم رخصة (GPL).
 فما هو برنامج (WEKA)؟
 هو عبارة عن حزمة برمجية مفتوحة المصدر تحتوي على مجموعة من الخوارزميات التي تساعد على تحليل واستخراج البيانات (Data mining).</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Data Mining VS Machine Learning🎖</title>
-      <link>https://www.shaiclub.com/post/articles/data-mining-vs-machine-learning/</link>
+      <link>https://shaiclub.github.io/shaiclub/post/articles/data-mining-vs-machine-learning/</link>
       <pubDate>Sun, 07 Mar 2021 02:00:00 +0000</pubDate>
       
-      <guid>https://www.shaiclub.com/post/articles/data-mining-vs-machine-learning/</guid>
+      <guid>https://shaiclub.github.io/shaiclub/post/articles/data-mining-vs-machine-learning/</guid>
       <description>🔴 مصطلح تنقيب البيانات Data mining يستخدم بشكل كبير في عالم الأعمال&amp;hellip; 💲 حيث يعبر عن تقنيات لتحليل البيانات والكشف عن العلاقات والانماط الموجودة بدون معرفة سابقة بها&amp;hellip; بمعنى اخر بنستخدمها عشان نستفيد من الداتا بحلول عملية.🖋🔦
 ⬅️ من الامثلة عليها استخدام الاسواق التجارية لهاي التقنيات لمعرفة الاصناف الي بتم شراءها مع بعض من قبل الزبائن&amp;hellip; ف بعيدوا ترتيب المكان بحيث يضعوا هاي الاصناف بالقرب من بعضها.🏬
 🔴 اما مصطلح ال Machine Learning فهو بمثل جزء من ال Artificial Intelligence &amp;hellip; الفكرة منه انه الكمبيوتر يتعلم من الداتا ويحللها، بهدف انه يعمم الانماط الي تعلمها على داتا جديدة.</description>

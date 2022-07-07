@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tableau on شاي للذّكاء الاصطناعي</title>
-    <link>https://www.shaiclub.com/tags/tableau/</link>
+    <link>https://shaiclub.github.io/shaiclub/tags/tableau/</link>
     <description>Recent content in Tableau on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tableau</title>
-      <link>https://www.shaiclub.com/post/articles/018_tableau/</link>
+      <link>https://shaiclub.github.io/shaiclub/post/articles/018_tableau/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shaiclub.com/post/articles/018_tableau/</guid>
+      <guid>https://shaiclub.github.io/shaiclub/post/articles/018_tableau/</guid>
       <description>يتيح Tableau للجميع رؤية وفهم بياناتهم 📊
 Tableau هو برنامج لتصور وتمثيل البيانات يتم استخدامه في علم البيانات وذكاء الأعمال اذ يستطيع إنشاء مجموعة واسعة من التصورات المختلفة لتقديم بيانات بصورة تفاعلية تساعدنا على فهم وتحليل هذه البيانات باستخدام أدوات يقدمها البرنامج بطريقة بسيطة. 🗂
 يساعد Tableau في إنشاء بيانات يمكن فهمها من قبل اي شخص بغض النظر عن مستوى احترافيته في المؤسسة. 🤔

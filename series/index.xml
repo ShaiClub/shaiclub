@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on شاي للذّكاء الاصطناعي</title>
-    <link>https://www.shaiclub.com/series/</link>
+    <link>https://shaiclub.github.io/shaiclub/series/</link>
     <description>Recent content in Series on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright><atom:link href="https://www.shaiclub.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright><atom:link href="https://shaiclub.github.io/shaiclub/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

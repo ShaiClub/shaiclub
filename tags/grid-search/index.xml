@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grid Search on شاي للذّكاء الاصطناعي</title>
-    <link>https://www.shaiclub.com/tags/grid-search/</link>
+    <link>https://shaiclub.github.io/shaiclub/tags/grid-search/</link>
     <description>Recent content in Grid Search on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/grid-search/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/grid-search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grid Search  VS  Random Search</title>
-      <link>https://www.shaiclub.com/post/articles/047_grid_vs_random/</link>
+      <link>https://shaiclub.github.io/shaiclub/post/articles/047_grid_vs_random/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shaiclub.com/post/articles/047_grid_vs_random/</guid>
+      <guid>https://shaiclub.github.io/shaiclub/post/articles/047_grid_vs_random/</guid>
       <description>خلال عملية بناء نظم للذكاء الاصطناعي نهتم بإيجاد أفضل قيم تعطى لخوارزميات التعلم قبل البدء بالتدريب، بعملية تعرف باسم Hyperparameter Tuning 📝
 وإيجاد القيم المُثلى للHyperparameters يسمح لنا برفع مستوى دقة وأداء الموديل 📈 ، لكن كيف ممكن نختار القيم؟ 🤔 طريقة الاختيار بتنقسم لطريقتين:
 1️⃣ بشكل يدوي عن طريق التجربة والخطأ:

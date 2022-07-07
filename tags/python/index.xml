@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on شاي للذّكاء الاصطناعي</title>
-    <link>https://www.shaiclub.com/tags/python/</link>
+    <link>https://shaiclub.github.io/shaiclub/tags/python/</link>
     <description>Recent content in Python on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pytorch Vs Tensorflow 2021</title>
-      <link>https://www.shaiclub.com/post/articles/044_pytorch_vs_tensorflow/</link>
+      <link>https://shaiclub.github.io/shaiclub/post/articles/044_pytorch_vs_tensorflow/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shaiclub.com/post/articles/044_pytorch_vs_tensorflow/</guid>
+      <guid>https://shaiclub.github.io/shaiclub/post/articles/044_pytorch_vs_tensorflow/</guid>
       <description>شو الفرق بين اخر نسخه من Tensorflow و Pytorch المكتبتين تعتبران أكثر مكتبتين شهرة فى مجال تعليم الآلة: Tensorflow من تصميم شركة جوجل Google. وPytorch من تصميم فيس بوك Facebook سنقارن في هذا المقال بين أخر إصدارين منهما.
 Tensorflow 2.x: هنالك الكثير من التعديلات بين Tensorflow 1 وبين Tensorflow 2.x
 📌أولاً إصدار Tensorflow.js🌐

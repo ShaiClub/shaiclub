@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Object Detection on شاي للذّكاء الاصطناعي</title>
-    <link>https://www.shaiclub.com/tags/object-detection/</link>
+    <link>https://shaiclub.github.io/shaiclub/tags/object-detection/</link>
     <description>Recent content in Object Detection on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/object-detection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/object-detection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ما هو موقع  ImageNet ؟</title>
-      <link>https://www.shaiclub.com/post/articles/040_imagenet/</link>
+      <link>https://shaiclub.github.io/shaiclub/post/articles/040_imagenet/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shaiclub.com/post/articles/040_imagenet/</guid>
+      <guid>https://shaiclub.github.io/shaiclub/post/articles/040_imagenet/</guid>
       <description>موقع ImageNet هو موقع مفتوح المصدر يحتوي على ما يقارب ال1.5مليون صورة مصنفة إلى ما يقارب الـ 22000🤩 فئة لغرض تعزيز الأبحاث في مجال الرؤية الحاسوبية👁.
 ومع ذلك ، عندما نسمع مصطلح &amp;ldquo;ImageNet&amp;rdquo; في سياق التعلم العميق والشبكات العصبية التلافيفية (Convolutional Neural Networks) ، فإننا نشير على الأرجح إلى تحدي التعرف البصري الخاص ب ImageNet 🎯.
 ILSVRC ( ImageNet Large Scale Visual Recognition Challenge) الهدف من هذا التحدي هو تدريب نموذج يمكنه تصنيف صورة بشكل صحيح من ضمن 1000🤯 فئة.</description>

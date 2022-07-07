@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> GPT-3 on شاي للذّكاء الاصطناعي</title>
-    <link>https://www.shaiclub.com/tags/gpt-3/</link>
+    <link>https://shaiclub.github.io/shaiclub/tags/gpt-3/</link>
     <description>Recent content in  GPT-3 on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/gpt-3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/gpt-3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenAI Codex</title>
-      <link>https://www.shaiclub.com/post/articles/codex-openai/</link>
+      <link>https://shaiclub.github.io/shaiclub/post/articles/codex-openai/</link>
       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shaiclub.com/post/articles/codex-openai/</guid>
+      <guid>https://shaiclub.github.io/shaiclub/post/articles/codex-openai/</guid>
       <description>هل ممكن للذكاء الاصطناعي أن يحل محل المبرمجين؟ 🤔 Codex أداة لتسهيل عمل المبرمجين من خلال الذكاء الاصطناعي
 أطلقت شركة OpenAI أداة جديدة تحت اسم Codex تسمح بترجمة الكلمات الإنجليزية إلى تعليمات برمجية🤩، واستعرضت النسخة التجريبية من الأداة قدرتها على إنشاء وتصميم مواقع إنترنت بسيطة وألعاب بدائية فقط بالاعتماد على اللغة الطبيعية. 💬
 وتتم العملية عبر توجيه الأوامر باللغة الإنجليزية للأداة، مثلًا: “أنشئ صفحة من موقع إلكتروني مع قائمة جانبية على اليمين مع استخدام اللون الأزرق”.</description>

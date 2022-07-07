@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boosting on شاي للذّكاء الاصطناعي</title>
-    <link>https://www.shaiclub.com/tags/boosting/</link>
+    <link>https://shaiclub.github.io/shaiclub/tags/boosting/</link>
     <description>Recent content in Boosting on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/boosting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/boosting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boosting and AdaBoosting algorithms</title>
-      <link>https://www.shaiclub.com/post/articles/022_adaboosting_algorithms/</link>
+      <link>https://shaiclub.github.io/shaiclub/post/articles/022_adaboosting_algorithms/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shaiclub.com/post/articles/022_adaboosting_algorithms/</guid>
+      <guid>https://shaiclub.github.io/shaiclub/post/articles/022_adaboosting_algorithms/</guid>
       <description>في هذا المقال سنتحدث عن كيفية عمل الBoosting وكيف يتم تدريب خوارزمية AdaBoost.
 أولا ما هي خوارزمية التعزيز(Boosting)
 هي طريقة لتحويل المصنفات الضعيفة (weak classifiers) إلى مصنفات قوية (strong classifiers)، يتم ذلك عن طريق بناء نموذج من بيانات التدريب، ثم إنشاء نموذج ثانٍ يحاول تصحيح الأخطاء من النموذج الأول. تتم إضافة النماذج حتى يتم توقع مجموعة التدريب تمامًا أو يتم إضافة أقصى عدد من النماذج.

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cerebras on شاي للذّكاء الاصطناعي</title>
-    <link>https://www.shaiclub.com/tags/cerebras/</link>
+    <link>https://shaiclub.github.io/shaiclub/tags/cerebras/</link>
     <description>Recent content in Cerebras on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/cerebras/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shaiclub.github.io/shaiclub/tags/cerebras/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>شريحة التعلم العميق الجديدة من Cerebras Systems</title>
-      <link>https://www.shaiclub.com/post/articles/023_cerebras_systems/</link>
+      <link>https://shaiclub.github.io/shaiclub/post/articles/023_cerebras_systems/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shaiclub.com/post/articles/023_cerebras_systems/</guid>
+      <guid>https://shaiclub.github.io/shaiclub/post/articles/023_cerebras_systems/</guid>
       <description>تعتبر شريحة التعلم العميق الجديدة من Cerebras Systems الأكبر والأعظم على الأطلاق فهي أكبر من لوحة المفاتيح 😎.
 مقارنة بأكبر GPU والتي تشمل على مليار ترانزستور، فإن رقاقةSystems Cerebras تشمل 1,2 تريليون الترانزستورات وتتطلب 46.225 مليمترا مربعة من السيليكون😯
 مواصفات رقائق نظام Cerebras طورت Cerebras شريحتها للتعلم العميق، حيث تقوم بتنفيذ &amp;ldquo;على نطاق رقاقة&amp;rdquo; لشبكة عصبية تجمع بشكل أساسي المنطق والاتصال والذاكرة على قطعة واحدة من السيليكون. على الرغم من أن تصنيعها مكلف💸 إلا أن الشركة تعتقد أن التوصيلات البينية على الرقاقة أسرع وأقل تكلفة من بناء وتوصيل النوى المنفصلة.</description>
