@@ -1,5 +1,5 @@
 # shAI Club Website
-A repo of [the former website of ShaiClub](https://www.shaiclub.com/).
+A repo of [the former website of ShaiClub]([https://www.shaiclub.com/](https://mohnoor94.github.io/shaiclub/)).
 
 
 ## Quick Run
